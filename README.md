@@ -1,2 +1,2 @@
 # Linux
-KickStart
+KickStart Auto Deployer
